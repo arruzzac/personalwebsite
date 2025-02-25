@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinzia Arruzza | Research & Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #005f6b; /* Deep Teal */
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        nav {
+            text-align: center;
+            padding: 15px;
+            background-color: #03363d;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .section-title {
+            color: #005f6b;
+            font-size: 22px;
+            border-bottom: 2px solid #005f6b;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #03363d;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Cinzia Arruzza | Research & Publications
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#books">Books</a>
+        <a href="#articles">Articles</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <div class="container" id="about">
+        <h2 class="section-title">About Me</h2>
+        <p>Brief bio introducing your work, background, and expertise.</p>
+    </div>
+    
+    <div class="container" id="research">
+        <h2 class="section-title">Research</h2>
+        <p>Details about your research areas, academic contributions, and projects.</p>
+    </div>
+    
+    <div class="container" id="books">
+        <h2 class="section-title">Books</h2>
+        <p>List of published books with descriptions and links to purchase or download.</p>
+    </div>
+    
+    <div class="container" id="articles">
+        <h2 class="section-title">Articles</h2>
+        <p>Links to published articles and research papers.</p>
+    </div>
+    
+    <div class="container" id="gallery">
+        <h2 class="section-title">Gallery</h2>
+        <p>Images related to research, events, or personal moments.</p>
+    </div>
+    
+    <div class="container" id="contact">
+        <h2 class="section-title">Contact</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Social Media: <a href="#">LinkedIn</a> | <a href="#">Twitter</a></p>
+    </div>
+    
+    <footer>
+        &copy; 2025 Cinzia Arruzza. All rights reserved.
+    </footer>
+</body>
+</html>
